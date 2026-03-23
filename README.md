@@ -120,7 +120,7 @@ A description of the main changes in the project’s versions can be found at [C
 
 To check your current version, go to the file [setup.cfg](setup.cfg).
 
-### Relevant Wiki pages
+## Relevant Wiki pages
 - [https://github.com/XR2Learn/.github/wiki/Personalization-Enablers:-Inference-Tools](https://github.com/XR2Learn/.github/wiki/Personalization-Enablers:-Inference-Tools)
 - [https://github.com/XR2Learn/.github/wiki/Multimodal-Synchronization ](https://github.com/XR2Learn/.github/wiki/Multimodal-Synchronization )
 
